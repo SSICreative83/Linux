@@ -1,0 +1,2 @@
+# Linux
+awk,sed,perl
